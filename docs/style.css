@@ -53,8 +53,7 @@ body {
     max-width: 400px;
 }
 
-.instagram-button,
-.contact-button {
+.instagram-button, .contact-button {
     display: inline-block;
     color: #fff;
     padding: 10px;
@@ -83,7 +82,6 @@ body {
     font-weight: bold;
 }
 
-/* Additional styling for the form overlay */
 #contact-form-overlay {
     display: none;
     position: fixed;
